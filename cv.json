@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Raul Allende",
+    "label": "Full Stack Developer & Software Engineer",
+    "image": "/me.webp",
+    "email": "raul.allende2025@gmail.com",
+    "phone": "+1 305 518 9875",
+    "url": "",
+    "summary": "Over 10 years of experience in Spain, Uruguay, and the U.S., specializing in React.js and Node.js. Passionate about building scalable, high-performance applications with a focus on UI/UX and agile methodologies.",
+    "location": {
+      "address": "",
+      "postalCode": "32935",
+      "city": "Florida",
+      "countryCode": "US",
+      "region": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "raulallende2025",
+        "url": "https://linkedin.com/in/raulallende2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "RA Strategy Solutions LLC",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": "Built scalable full-stack applications with React.js, Next.js, Node.js, and GraphQL, optimizing performance and integrating AWS for cloud solutions. Ensured high code quality with automated testing and agile collaboration.",
+      "highlights": []
+    },
+    {
+      "name": "TuAppto",
+      "position": "Team Lead",
+      "url": "",
+      "startDate": "2021-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Led a team developing web and mobile apps with React.js, Vue.js, and React Native, ensuring timely delivery with Jira and agile practices. Optimized backend systems using Node.js and PostgreSQL, integrating services for chat, payments, and cloud storage.",
+      "highlights": []
+    },
+    {
+      "name": "Indra",
+      "position": "System Engineer",
+      "url": "",
+      "startDate": "2018-08-01",
+      "endDate": "2023-01-01",
+      "summary": "Delivered full-stack solutions with React.js, Node.js, and Vue.js, building secure REST APIs and integrating cloud storage, payments, and interactive maps. Optimized performance and scalability for seamless user experiences.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de las Ciencias Informáticas (UCI)",
+      "url": "https://www.uci.cu/en",
+      "area": "Computer Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2008-08-01",
+      "endDate": "2013-06-01",
+      "score": "4.8",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Full Stack Software Developer Professional Certificate (V5)",
+      "date": "2024-12-01",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/2f3ec10d-f51f-41e0-a772-4df6f026ae99"
+    },
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "date": "2024-12-01",
+      "issuer": "Meta",
+      "url": "https://www.credly.com/badges/421db91c-1fed-4aa6-9321-ec1ec07f8544/linked_in_profile"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "MongoDB",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
+      "url": "https://miduconf.com"
+    }
+  ]
+}

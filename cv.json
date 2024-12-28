@@ -212,6 +212,16 @@
         "SSR",
         "Static Generation"
       ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["DevOps", "Backend", "Containers"]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": ["DevOps", "Backend", "Cloud Computing"]
     }
   ],
   "languages": [

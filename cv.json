@@ -238,51 +238,26 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "TuAppto",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "TuAppto is a user-friendly app for property management, allowing users to check account status, pay expenses online, manage multiple properties, access secure payment history, reserve shared spaces, and stay updated with administration announcements—all in one convenient platform.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "React",
+        "React Native",
+        "Node.js",
+        "ExpressJS",
+        "PostgreSQL"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://apps.apple.com/us/app/tuappto/id1592735150",
+      "github": ""
     },
     {
-      "name": "Codember",
+      "name": "RA Strategy Solutions",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "RA Strategy Solutions is a full-stack development company specializing in React.js and Node.js, building scalable, high-performance applications with a focus on UI/UX and agile methodologies.",
+      "highlights": ["React", "Next.js", "Node.js", "GraphQL", "AWS"],
+      "url": "https://rastrategysolutions.netlify.app/",
+      "github": ""
     }
   ]
 }

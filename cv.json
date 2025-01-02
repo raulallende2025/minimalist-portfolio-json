@@ -6,7 +6,7 @@
     "email": "raul.allende2025@gmail.com",
     "phone": "+1 305 518 9875",
     "url": "",
-    "summary": "Over 10 years of experience in Spain, Uruguay, and the U.S., specializing in React.js and Node.js. Passionate about building scalable, high-performance applications with a focus on UI/UX and agile methodologies.",
+    "summary": "Over 10 years of experience across Spain, Uruguay, and the U.S., specializing in React Native for mobile development, as well as React.js and Node.js for full-stack web applications. Passionate about building scalable, high-performance mobile and web apps with a strong focus on UI/UX design, cross-platform development, and agile methodologies.",
     "location": {
       "address": "",
       "postalCode": "32935",
@@ -27,9 +27,18 @@
       "name": "RA Strategy Solutions LLC",
       "position": "Software Engineer",
       "url": "",
-      "startDate": "2024-01-01",
+      "startDate": "2024-01-02",
       "endDate": null,
-      "summary": "Built scalable full-stack applications with React.js, Next.js, Node.js, and GraphQL, optimizing performance and integrating AWS for cloud solutions. Ensured high code quality with automated testing and agile collaboration.",
+      "summary": "At RA Strategy Solutions, I developed cross-platform mobile applications using React Native, ensuring high performance and smooth user experiences on both iOS and Android devices. I also built full-stack web applications with React.js, Next.js, Node.js, and GraphQL, integrating cloud solutions via AWS. I optimized app performance, managed state efficiently, and contributed to high-quality code through automated testing and agile collaboration with the team.",
+      "highlights": []
+    },
+    {
+      "name": "ReactDx",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "As a Software Engineer at ReactDx, I developed solutions to optimize business processes through task automation and workflow improvements. I contributed to both React Native mobile apps and scalable web applications using React.js and Node.js, integrating cloud solutions with Microsoft Azure and Azure Functions. I also worked on dynamic UIs with Blazor and Bootstrap and implemented backend solutions with ASP.NET and Node.js. My efforts in optimizing workflows, automating tasks, and utilizing Git and Azure DevOps Server for CI/CD led to improved system performance and faster project delivery.",
       "highlights": []
     },
     {
@@ -38,7 +47,7 @@
       "url": "",
       "startDate": "2021-03-01",
       "endDate": "2023-03-01",
-      "summary": "Led a team developing web and mobile apps with React.js, Vue.js, and React Native, ensuring timely delivery with Jira and agile practices. Optimized backend systems using Node.js and PostgreSQL, integrating services for chat, payments, and cloud storage.",
+      "summary": "As a Team Lead at TuAppto, I spearheaded the development of mobile apps using React Native and React.js, managing a team to deliver projects on time with agile practices. I coordinated the integration of essential services like chat, payments, and cloud storage using Node.js and PostgreSQL. Additionally, I optimized app performance, focusing on seamless cross-platform functionality, and ensured smooth communication and delivery through Jira.",
       "highlights": []
     },
     {
@@ -47,7 +56,7 @@
       "url": "",
       "startDate": "2018-08-01",
       "endDate": "2023-01-01",
-      "summary": "Delivered full-stack solutions with React.js, Node.js, and Vue.js, building secure REST APIs and integrating cloud storage, payments, and interactive maps. Optimized performance and scalability for seamless user experiences.",
+      "summary": "At Indra, I delivered full-stack solutions, building both mobile applications with React Native and web apps using React.js and Vue.js. I developed secure REST APIs, integrated cloud services, and implemented payment systems and interactive maps. I focused on performance optimization and scalability to enhance user experiences across both mobile and web platforms, ensuring smooth interactions and high availability.",
       "highlights": []
     }
   ],
@@ -109,73 +118,63 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": ["Mobile Development", "Web Development", "Frontend", "UI"]
     },
     {
       "name": "React.js",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Node.js",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "SQL",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "keywords": ["Database", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "MongoDB",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "MongoDB",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "keywords": ["Database", "MongoDB", "Data Storage", "Backend"]
     },
     {
       "name": "GraphQL",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "GraphQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "keywords": ["Database", "GraphQL", "Data Storage", "Backend"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
+        " Web Development",
         "Frontend",
         "CSS Framework",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
+        " Web Development",
         "Frontend",
         "Backend",
         "JavaScript Superset"
@@ -184,28 +183,23 @@
     {
       "name": "Express.js",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [" Web Development", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": ["Version Control", "Collaboration", "Core Code"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Core Code", "Git"]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -216,7 +210,7 @@
       "name": "Astro",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -262,8 +256,9 @@
       "isActive": true,
       "description": "TuAppto is a user-friendly app for property management, allowing users to check account status, pay expenses online, manage multiple properties, access secure payment history, reserve shared spaces, and stay updated with administration announcements—all in one convenient platform.",
       "highlights": [
-        "React",
         "React Native",
+        "Expo",
+        "React",
         "Node.js",
         "ExpressJS",
         "PostgreSQL"

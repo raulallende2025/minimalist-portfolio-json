@@ -56,7 +56,7 @@
       "url": "",
       "startDate": "2018-08-01",
       "endDate": "2023-01-01",
-      "summary": "At Indra, I delivered full-stack solutions, building both mobile applications with React Native and web apps using React.js and Vue.js. I developed secure REST APIs, integrated cloud services, and implemented payment systems and interactive maps. I focused on performance optimization and scalability to enhance user experiences across both mobile and web platforms, ensuring smooth interactions and high availability.",
+      "summary": "At Indra, I delivered full-stack solutions, building both mobile applications with React Native and web apps using React.js, Angular and Vue.js. I developed secure REST APIs, integrated cloud services, and implemented payment systems and interactive maps. I focused on performance optimization and scalability to enhance user experiences across both mobile and web platforms, ensuring smooth interactions and high availability.",
       "highlights": []
     }
   ],
@@ -141,9 +141,34 @@
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Avanzado",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Blazor",
+      "level": "Avanzado",
+      "keywords": ["Web Development", "Frontend", "ASP.Net", "UI"]
+    },
+    {
       "name": "Node.js",
       "level": "Avanzado",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "ASP.Net",
+      "level": "Avanzado",
+      "keywords": ["Web Development", "Backend", "ASP.Net", "Server"]
+    },
+    {
+      "name": "ASP.Net Core",
+      "level": "Avanzado",
+      "keywords": ["Web Development", "Backend", "ASP.Net", "Server"]
     },
     {
       "name": "SQL",
@@ -224,6 +249,11 @@
     },
     {
       "name": "AWS",
+      "level": "Avanzado",
+      "keywords": ["DevOps", "Backend", "Cloud Computing"]
+    },
+    {
+      "name": "Azure",
       "level": "Avanzado",
       "keywords": ["DevOps", "Backend", "Cloud Computing"]
     }
